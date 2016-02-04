@@ -1,0 +1,14 @@
+{
+  "name": "mongonod3",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinh Diesel",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.1.4"
+  }
+}
